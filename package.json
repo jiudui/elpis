@@ -1,5 +1,5 @@
 {
-  "name": "@lesheng/elpis",
+  "name": "@linqineo/elpis",
   "version": "1.2.4",
   "description": "",
   "repository": {
@@ -7,7 +7,7 @@
     "url": "https://github.com/jiudui/elpis.git"
   },
   "license": "ISC",
-  "author": "lesheng",
+  "author": "linqineo",
   "type": "commonjs",
   "main": "index.js",
   "files": [

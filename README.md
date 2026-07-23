@@ -161,7 +161,7 @@
 ``` javascript
 const {
   ServerStart
-} = require('@lesheng/elpis');
+} = require('@linqineo/elpis');
 
 // 启动服务
 const app = ServerStart({});
@@ -177,7 +177,7 @@ const app = ServerStart({});
 
 ### 前端构建
 ``` javascript
-const { frontendBuild } = require('@lesheng/elpis');
+const { frontendBuild } = require('@linqineo/elpis');
 
 // 编译构建前端工程
 frontendBuild(process.env._ENV);
